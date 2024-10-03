@@ -1,0 +1,16 @@
+
+
+body {
+    background-color: burlywood;
+}
+#name1{
+    color: darkblue;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+
+}
+#detail{
+    color: darkred;
+    font-family: cursive;
+    font-style: italic;
+}
